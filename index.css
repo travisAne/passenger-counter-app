@@ -1,6 +1,6 @@
 body {
     background-image: url("Train.webp");
-    background-size: 100% ;
+    background-size: 100% cover ;
     font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: bold;
     text-align: center;
